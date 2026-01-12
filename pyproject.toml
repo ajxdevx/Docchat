@@ -1,0 +1,9 @@
+[project]
+name = "docchat-local"
+version = "0.1.0"
+description = "Local document management and grounded document chat MVP"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+  { name = "Ajxdevx", email = "Ajxfuture@gmail.com" },
+]
